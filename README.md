@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @BenjiBenji20
-- I am located in Malabon, Philippines.
-- 👀 I’m interested in programming logic.
-- 💞️ I’m looking for collaboration and exchange knowledge and ideas.
+Learning Data 
+SQL, Excel, Python, Tableau, Statistics and Probability 
+Studying BSIT Computer Programming 
+Tech Enthusiast 
+A Learner
 
 <!---
 BenjiBenji20/BenjiBenji20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
