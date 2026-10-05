@@ -15,20 +15,9 @@
 
 ---
 
-### 🚀 Projects
-
-- **[n8n Automation: Email and TG Image Data Extraction](https://github.com/BenjiBenji20/n8n-Automation-Email-and-TG-Image-Data-Extraction) 🤖** — Designed and built two end-to-end automation pipelines using n8n, Google Workspace APIs, Telegram, and Google Gemini. Coming in with zero prior n8n experience, this was a solid crash course in workflow automation architecture.
-- **[Mac Mail to Window](https://github.com/BenjiBenji20/mac_mail_to_wind) ✉️** — Native mac mail nested .mbox file convert to windows compatible.
-- **[Document Agent](https://github.com/BenjiBenji20/Document-Agent) 🤖** — Extract document text in parallel with the help of agents. Best for automating data encoding.
-- **[IntelliChat](https://github.com/BenjiBenji20/IntelliChat) 💬** — Make the development of RAG architecture easier. Good for developers, students, start ups and small businesses.
-- **[Smart Traffic Monitoring System](https://github.com/BenjiBenji20/smart_traffic_monitoring_system) 👀** — Edge Computing Smart Traffic Monitoring System: computer vision for vehicle detection, data analytics for data driven decision-making and LLM for human readable and proactive traffic recommendations.
-- **[RPI Zero 2w to MJPEG Streaming](https://github.com/BenjiBenji20/RPi-Zero-2-W-MJPEG-Streaming) 🍓** — Low latency MJPEG vidoe livestreaming using Raspberry Pi Zero 2 W
-
----
-
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -49,6 +38,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
+---
+
+### 🚀 Projects
+
+- **[n8n Automation: Email and TG Image Data Extraction](https://github.com/BenjiBenji20/n8n-Automation-Email-and-TG-Image-Data-Extraction) 🤖** — Designed and built two end-to-end automation pipelines using n8n, Google Workspace APIs, Telegram, and Google Gemini. Coming in with zero prior n8n experience, this was a solid crash course in workflow automation architecture.
+- **[Mac Mail to Window](https://github.com/BenjiBenji20/mac_mail_to_wind) ✉️** — Native mac mail nested .mbox file convert to windows compatible.
+- **[Document Agent](https://github.com/BenjiBenji20/Document-Agent) 🤖** — Extract document text in parallel with the help of agents. Best for automating data encoding.
+- **[IntelliChat](https://github.com/BenjiBenji20/IntelliChat) 💬** — Make the development of RAG architecture easier. Good for developers, students, start ups and small businesses.
+- **[Smart Traffic Monitoring System](https://github.com/BenjiBenji20/smart_traffic_monitoring_system) 👀** — Edge Computing Smart Traffic Monitoring System: computer vision for vehicle detection, data analytics for data driven decision-making and LLM for human readable and proactive traffic recommendations.
+- **[RPI Zero 2w to MJPEG Streaming](https://github.com/BenjiBenji20/RPi-Zero-2-W-MJPEG-Streaming) 🍓** — Low latency MJPEG vidoe livestreaming using Raspberry Pi Zero 2 W
 
 ---
 
