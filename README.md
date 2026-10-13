@@ -50,6 +50,10 @@
 - **[Smart Traffic Monitoring System](https://github.com/BenjiBenji20/smart_traffic_monitoring_system) 👀** — Edge Computing Smart Traffic Monitoring System: computer vision for vehicle detection, data analytics for data driven decision-making and LLM for human readable and proactive traffic recommendations.
 - **[RPI Zero 2w to MJPEG Streaming](https://github.com/BenjiBenji20/RPi-Zero-2-W-MJPEG-Streaming) 🍓** — Low latency MJPEG vidoe livestreaming using Raspberry Pi Zero 2 W
 
+### 🚀 Professional Projects 🤑
+- **[Casamento Events Management](https://casamentoevents.com) ✨** — Public facing website that serves as marketing and booking platform integrated with Headless CMS (Sanity). A dashboard for admin team access and business tracking. With payment integration.
+- **Oravista 🦷** — A dental clinical application powered by machine learning to analyze and track tooth flaws.
+
 ---
 
 ### 📊 GitHub Activity
