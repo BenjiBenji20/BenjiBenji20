@@ -52,7 +52,7 @@
 
 ### 🚀 Professional Projects 🤑
 - **[Casamento Events Management](https://casamentoevents.com) ✨** — Public facing website that serves as marketing and booking platform integrated with Headless CMS (Sanity). A dashboard for admin team access and business tracking. With payment integration.
-- **Oravista 🦷** — A dental clinical application powered by machine learning to analyze and track tooth flaws.
+- **[Oravista](https://oravista.vercel.app) 🦷** — A dental clinical application powered by machine learning to analyze and track tooth flaws.
 
 ---
 
