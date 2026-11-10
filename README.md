@@ -43,6 +43,7 @@
 
 ### 🚀 Projects
 
+- **[Benjineer: Personal Agentic Portfolio](https://github.com/BenjiBenji20/portfolio) 🗂️** — My personal portfolio and blog site with autonomous AI agent as technical writer.
 - **[n8n Automation: Email and TG Image Data Extraction](https://github.com/BenjiBenji20/n8n-Automation-Email-and-TG-Image-Data-Extraction) 🤖** — Designed and built two end-to-end automation pipelines using n8n, Google Workspace APIs, Telegram, and Google Gemini. Coming in with zero prior n8n experience, this was a solid crash course in workflow automation architecture.
 - **[Mac Mail to Window](https://github.com/BenjiBenji20/mac_mail_to_wind) ✉️** — Native mac mail nested .mbox file convert to windows compatible.
 - **[Document Agent](https://github.com/BenjiBenji20/Document-Agent) 🤖** — Extract document text in parallel with the help of agents. Best for automating data encoding.
