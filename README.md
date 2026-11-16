@@ -48,14 +48,15 @@
 - **[Oravista](https://oravista.vercel.app) 🦷** — A dental clinical application powered by machine learning to analyze and track tooth flaws.
 
 ### 🤖 AI & Software Engineering Projects 💻
+- **[AI Invoice Extraction & Agentic SQL Pipeline](https://github.com/NALIWANAGAN/AI-ENG-P1)** - Invoice ingestion pipeline with NLP orchestration via MCP, enforce AST-level SQL validation for secure model to database transactions.
 - **[Benjineer: Personal Agentic Portfolio](https://github.com/BenjiBenji20/portfolio) 🗂️** — My personal portfolio and blog site with autonomous AI agent as technical writer.
-- **[n8n Automation: Email and TG Image Data Extraction](https://github.com/BenjiBenji20/n8n-Automation-Email-and-TG-Image-Data-Extraction) 🤖** — Designed and built two end-to-end automation pipelines using n8n, Google Workspace APIs, Telegram, and Google Gemini. Coming in with zero prior n8n experience, this was a solid crash course in workflow automation architecture.
 - **[Document Agent](https://github.com/BenjiBenji20/Document-Agent) 🤖** — Extract document text in parallel with the help of agents. Best for automating data encoding.
 - **[IntelliChat](https://github.com/BenjiBenji20/IntelliChat) 💬** — Make the development of RAG architecture easier. Good for developers, students, start ups and small businesses.
 - **[Smart Traffic Monitoring System](https://github.com/BenjiBenji20/smart_traffic_monitoring_system) 👀** — Edge Computing Smart Traffic Monitoring System: computer vision for vehicle detection, data analytics for data driven decision-making and LLM for human readable and proactive traffic recommendations.
 
 ### 💻 Automation Projects
 - **[Mac Mail to Window](https://github.com/BenjiBenji20/mac_mail_to_wind) ✉️** — Native mac mail nested .mbox file convert to windows compatible.
+- **[n8n Automation: Email and TG Image Data Extraction](https://github.com/BenjiBenji20/n8n-Automation-Email-and-TG-Image-Data-Extraction) 🤖** — Designed and built two end-to-end automation pipelines using n8n, Google Workspace APIs, Telegram, and Google Gemini. Coming in with zero prior n8n experience, this was a solid crash course in workflow automation architecture.
 
 ### ⚙️ Other Projects
 - **[RPI Zero 2w to MJPEG Streaming](https://github.com/BenjiBenji20/RPi-Zero-2-W-MJPEG-Streaming) 🍓** — Low latency MJPEG video livestreaming using Raspberry Pi Zero 2 W
