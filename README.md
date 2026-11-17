@@ -48,7 +48,7 @@
 - **[Oravista](https://oravista.vercel.app) 🦷** — A dental clinical application powered by machine learning to analyze and track tooth flaws.
 
 ### 🤖 AI & Software Engineering Projects 💻
-- **[AI Invoice Extraction & Agentic SQL Pipeline](https://github.com/NALIWANAGAN/AI-ENG-P1)** - Invoice ingestion pipeline with NLP orchestration via MCP, enforce AST-level SQL validation for secure model to database transactions.
+- **[AI Invoice Extraction & Agentic SQL Pipeline](https://github.com/NALIWANAGAN/AI-ENG-P1) 🛡️** - Invoice ingestion pipeline with NLP orchestration via MCP, enforce AST-level SQL validation for secure model to database transactions.
 - **[Benjineer: Personal Agentic Portfolio](https://github.com/BenjiBenji20/portfolio) 🗂️** — My personal portfolio and blog site with autonomous AI agent as technical writer.
 - **[Document Agent](https://github.com/BenjiBenji20/Document-Agent) 🤖** — Extract document text in parallel with the help of agents. Best for automating data encoding.
 - **[IntelliChat](https://github.com/BenjiBenji20/IntelliChat) 💬** — Make the development of RAG architecture easier. Good for developers, students, start ups and small businesses.
